@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplestock", "simplestock\simplestock.csproj", "{E36D5573-A937-490D-8862-5D44AA6A6D7A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MaxStock", "Instalação MaxStock\Instalação MaxStock.vdproj", "{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.CD_ROM|x86.ActiveCfg = Release|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.CD_ROM|x86.Build.0 = Release|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.Debug|x86.ActiveCfg = Debug|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.Debug|x86.Build.0 = Debug|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.DVD-5|x86.ActiveCfg = Debug|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.DVD-5|x86.Build.0 = Debug|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.Release|x86.ActiveCfg = Release|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.Release|x86.Build.0 = Release|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.SingleImage|x86.ActiveCfg = Release|x86
+		{E36D5573-A937-490D-8862-5D44AA6A6D7A}.SingleImage|x86.Build.0 = Release|x86
+		{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}.CD_ROM|x86.ActiveCfg = Release
+		{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}.Debug|x86.ActiveCfg = Debug
+		{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}.DVD-5|x86.ActiveCfg = Debug
+		{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}.Release|x86.ActiveCfg = Release
+		{4950000E-FCB4-4F38-BF4E-006F5BA8F7D0}.SingleImage|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

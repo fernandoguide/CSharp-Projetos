@@ -1,0 +1,6 @@
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\bin\Debug\ProgramaRodizio.exe.config
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\bin\Debug\ProgramaRodizio.exe
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\bin\Debug\ProgramaRodizio.pdb
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\obj\Debug\ProgramaRodizio.csprojResolveAssemblyReference.cache
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\obj\Debug\ProgramaRodizio.exe
+C:\Users\1binfo\Desktop\ProgramaRodizio\ProgramaRodizio\obj\Debug\ProgramaRodizio.pdb

@@ -1,0 +1,12 @@
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\bin\Debug\CambioFernando.exe.config
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\bin\Debug\CambioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\bin\Debug\CambioFernando.pdb
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\obj\Debug\CambioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\obj\Debug\CambioFernando.pdb
+C:\Users\Guide\Desktop\Arquivos\CambioFernando\CambioFernando\obj\Debug\CambioFernando.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\bin\Debug\CambioFernando.exe.config
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\obj\Debug\CambioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\obj\Debug\CambioFernando.pdb
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\bin\Debug\CambioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\bin\Debug\CambioFernando.pdb
+C:\Users\Guide\Desktop\Arquivos\Cambio_if_elseFernando\CambioFernando\obj\Debug\CambioFernando.csprojResolveAssemblyReference.cache

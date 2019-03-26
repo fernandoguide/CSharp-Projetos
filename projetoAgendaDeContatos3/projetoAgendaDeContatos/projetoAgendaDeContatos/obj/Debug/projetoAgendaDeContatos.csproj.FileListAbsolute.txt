@@ -1,0 +1,36 @@
+T:\Usuarios\INFORMATICA\2B_MODULAR_NOITE\Alyne\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.exe.config
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.exe.config
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.exe
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.pdb
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.csprojResolveAssemblyReference.cache
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.Properties.Resources.resources
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.csproj.GenerateResource.Cache
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.exe
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.pdb
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.AgendaDeContatos.resources
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAngendaDeContatos.tela.TelaAlterarContato.resources
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.tela.TelaSplash.resources
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.teladelogin.resources
+C:\Users\2binfo.BASILIDES\Documents\Jhenny e Fernando\DSI\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.tela.TelaPrincipal.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.exe.config
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.exe
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\projetoAgendaDeContatos.pdb
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.tela.TelaDeCadastroUsuario.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.teladelogin.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.AgendaDeContatos.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.Properties.Resources.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAngendaDeContatos.tela.TelaAlterarContato.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.tela.TelaPrincipal.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.tela.TelaSplash.resources
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.csproj.GenerateResource.Cache
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.exe
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\obj\Debug\projetoAgendaDeContatos.pdb
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\CircularProgressBar.dll
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\MetroFramework.Design.dll
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\MetroFramework.dll
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\WinFormAnimation.dll
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\CircularProgressBar.xml
+C:\Users\Guide\Documents\Fernando C#\projetoAgendaDeContatos3\projetoAgendaDeContatos\projetoAgendaDeContatos\bin\Debug\WinFormAnimation.xml

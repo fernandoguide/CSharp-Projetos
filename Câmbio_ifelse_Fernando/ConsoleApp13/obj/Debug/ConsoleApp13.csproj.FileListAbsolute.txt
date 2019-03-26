@@ -1,0 +1,18 @@
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+c:\users\ferna\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\Guide\Downloads\Câmbio\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Guide\Downloads\Câmbio\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Guide\Downloads\Câmbio\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Guide\Desktop\Arquivos\Câmbio\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\Guide\Desktop\Arquivos\CâmbioFernando\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Guide\Desktop\Arquivos\CâmbioFernando\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Guide\Desktop\Arquivos\CâmbioFernando\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

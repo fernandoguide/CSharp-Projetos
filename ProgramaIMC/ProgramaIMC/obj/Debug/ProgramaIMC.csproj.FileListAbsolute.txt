@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\bin\Debug\ProgramaIMC.exe.config
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\obj\Debug\ProgramaIMC.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\bin\Debug\ProgramaIMC.exe
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\bin\Debug\ProgramaIMC.pdb
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\obj\Debug\ProgramaIMC.exe
+C:\Users\Guide\Desktop\Arquivos\ProgramaIMC\ProgramaIMC\obj\Debug\ProgramaIMC.pdb

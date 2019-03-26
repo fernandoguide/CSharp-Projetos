@@ -1,0 +1,5 @@
+C:\Users\Guide\Desktop\Arquivos\exemplo2metodo\exemplo2metodo\bin\Debug\exemplo2metodo.exe.config
+C:\Users\Guide\Desktop\Arquivos\exemplo2metodo\exemplo2metodo\bin\Debug\exemplo2metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo2metodo\exemplo2metodo\bin\Debug\exemplo2metodo.pdb
+C:\Users\Guide\Desktop\Arquivos\exemplo2metodo\exemplo2metodo\obj\Debug\exemplo2metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo2metodo\exemplo2metodo\obj\Debug\exemplo2metodo.pdb

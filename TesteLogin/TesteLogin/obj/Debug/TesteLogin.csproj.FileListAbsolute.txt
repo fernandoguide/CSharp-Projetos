@@ -1,0 +1,13 @@
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\bin\Debug\TesteLogin.exe.config
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\bin\Debug\TesteLogin.exe
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\bin\Debug\TesteLogin.pdb
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.Form1.resources
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.Properties.Resources.resources
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.csproj.GenerateResource.Cache
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.csproj.CoreCompileInputs.cache
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.exe
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.pdb
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\bin\Debug\SplashScreen.dll
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.telaSplash.resources
+C:\Users\Guide\Documents\Fernando C#\TesteLogin\TesteLogin\obj\Debug\TesteLogin.TelaLogin.resources

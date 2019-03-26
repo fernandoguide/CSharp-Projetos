@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\obj\Debug\SistemaNumerosBasicos.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\bin\Debug\SistemaNumerosBasicos.exe.config
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\bin\Debug\SistemaNumerosBasicos.exe
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\bin\Debug\SistemaNumerosBasicos.pdb
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\obj\Debug\SistemaNumerosBasicos.exe
+C:\Users\Guide\Desktop\Arquivos\SistemaNumerosBasicos\SistemaNumerosBasicos\obj\Debug\SistemaNumerosBasicos.pdb

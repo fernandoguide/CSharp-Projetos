@@ -1,0 +1,12 @@
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\1binfo\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Guide\Desktop\Arquivos\Programa_TRIANGULOS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

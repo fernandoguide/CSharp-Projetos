@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\bin\Debug\ProgramaRodizioJ.exe.config
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\bin\Debug\ProgramaRodizioJ.exe
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\bin\Debug\ProgramaRodizioJ.pdb
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\obj\Debug\ProgramaRodizioJ.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\obj\Debug\ProgramaRodizioJ.exe
+C:\Users\Guide\Desktop\Arquivos\ProgramaRodizioJ\ProgramaRodizioJ\obj\Debug\ProgramaRodizioJ.pdb

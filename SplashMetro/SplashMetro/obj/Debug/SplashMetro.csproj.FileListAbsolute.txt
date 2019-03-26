@@ -1,0 +1,17 @@
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\SplashMetro.exe.config
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\SplashMetro.exe
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\SplashMetro.pdb
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\MetroFramework.dll
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.Properties.Resources.resources
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.csproj.GenerateResource.Cache
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.csproj.CoreCompileInputs.cache
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.exe
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.pdb
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.TelaPrincipal.resources
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.MetroSplash.resources
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\BunifuLC.dll
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guide\source\repos\SplashMetro\SplashMetro\obj\Debug\SplashMetro.csprojResolveAssemblyReference.cache

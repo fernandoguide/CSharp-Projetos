@@ -1,0 +1,22 @@
+C:\Projetos\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.deps.json
+C:\Projetos\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.json
+C:\Projetos\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.dev.json
+C:\Projetos\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Projetos\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\Projetos\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csprojResolveAssemblyReference.cache
+G:\Fernando C#\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.deps.json
+G:\Fernando C#\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.json
+G:\Fernando C#\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.dev.json
+G:\Fernando C#\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll
+G:\Fernando C#\MyWebAppSolution\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.pdb
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csprojAssemblyReference.cache
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csproj.CoreCompileInputs.cache
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoInputs.cache
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
+G:\Fernando C#\MyWebAppSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb

@@ -1,0 +1,226 @@
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.exe.config
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.exe
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.pdb
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.csproj.GenerateResource.Cache
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\RdlCompile.cache
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\RdlCompile.compiled
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.exe
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.pdb
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.csprojResolveAssemblyReference.cache
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplebase.mdb
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.testpesqu.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+C:\Users\max_r_000\Desktop\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.exe.config
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.exe
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.pdb
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplebase.mdb
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.exe
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.pdb
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.csproj.GenerateResource.Cache
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\RdlCompile.cache
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\RdlCompile.compiled
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutosVenda.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaVendas.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConfiguracoes.resources
+D:\NOVO PROJETO\maxstock\simplestock\bin\Debug\simplestock.exe.config
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.exe
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.pdb
+D:\NOVO PROJETO\maxstock\simplestock\bin\Debug\simplebase.mdb
+D:\NOVO PROJETO\maxstock\simplestock\bin\Debug\simplestock.exe
+D:\NOVO PROJETO\maxstock\simplestock\bin\Debug\simplestock.pdb
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.csprojResolveAssemblyReference.cache
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConsultaVendas.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConfiguracoes.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutosVenda.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\simplestock.csproj.GenerateResource.Cache
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\RdlCompile.cache
+D:\NOVO PROJETO\maxstock\simplestock\obj\x86\Debug\RdlCompile.compiled
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmImpressaoVenda.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmAbrirVenda.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmReimpressãoVenda.resources
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.exe.manifest
+D:\NOVO PROJETO\simplestock\simplestock\bin\Debug\simplestock.application
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.exe.manifest
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.application
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmEntradadeProdutos.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutosPedido.resources
+D:\NOVO PROJETO\simplestock\simplestock\obj\x86\Debug\simplestock.frmVendasExcluidas.resources
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplestock.exe.config
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.exe
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.pdb
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplebase.mdb
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplestock.exe.manifest
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplestock.application
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplestock.exe
+C:\Users\Max\Desktop\simplestock\simplestock\bin\Debug\simplestock.pdb
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmAbrirVenda.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaVendas.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConfiguracoes.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmEntradadeProdutos.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmImpressaoVenda.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutosPedido.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmReimpressãoVenda.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutosVenda.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.frmVendasExcluidas.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\RdlCompile.cache
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.exe.manifest
+C:\Users\Max\Desktop\simplestock\simplestock\obj\x86\Debug\simplestock.application
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplestock.exe.config
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.exe
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.pdb
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmAbrirVenda.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaVendas.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConfiguracoes.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmEntradadeProdutos.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmImpressaoVenda.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutosPedido.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmReimpressãoVenda.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutosVenda.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.frmVendasExcluidas.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\RdlCompile.cache
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\RdlCompile.compiled
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.exe.manifest
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplebase.mdb
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplestock.exe.manifest
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplestock.application
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplestock.exe
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\bin\Debug\simplestock.pdb
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.application
+D:\PROJETOS VISUAL STUDIO\simplestock\simplestock\obj\x86\Debug\simplestock.csproj.GenerateResource.Cache
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmAbrirVenda.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmClientes.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaVendas.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConfiguracoes.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmEntradadeProdutos.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmImpressaoVenda.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutos.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmProdutosPedido.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmReimpressãoVenda.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutos.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroClientes.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFornecedores.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroFuncionarios.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmCadastroProdutos.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaClientes.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFornecedor.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaFuncionario.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmConsultaProdutos.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmLogin.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmPrincipal.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioClientes.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFornecedores.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioFuncionario.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioProdutosVenda.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmRelatorioVendas.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmSobre.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmVenda.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.frmVendasExcluidas.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.Properties.Resources.resources
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.csproj.GenerateResource.Cache
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.csproj.CoreCompileInputs.cache
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.exe
+C:\Users\Guide\Documents\Fernando C#\simplestock\simplestock\simplestock\obj\x86\Debug\simplestock.pdb

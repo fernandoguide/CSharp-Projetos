@@ -1,0 +1,5 @@
+C:\Users\Guide\Desktop\Arquivos\exemplo4metodo\exemplo4metodo\bin\Debug\exemplo4metodo.exe.config
+C:\Users\Guide\Desktop\Arquivos\exemplo4metodo\exemplo4metodo\bin\Debug\exemplo4metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo4metodo\exemplo4metodo\bin\Debug\exemplo4metodo.pdb
+C:\Users\Guide\Desktop\Arquivos\exemplo4metodo\exemplo4metodo\obj\Debug\exemplo4metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo4metodo\exemplo4metodo\obj\Debug\exemplo4metodo.pdb

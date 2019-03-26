@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\bin\Debug\programatriangulos.exe.config
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\bin\Debug\programatriangulos.exe
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\bin\Debug\programatriangulos.pdb
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\obj\Debug\programatriangulos.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\obj\Debug\programatriangulos.exe
+C:\Users\Guide\Desktop\Arquivos\programatriangulos\programatriangulos\obj\Debug\programatriangulos.pdb

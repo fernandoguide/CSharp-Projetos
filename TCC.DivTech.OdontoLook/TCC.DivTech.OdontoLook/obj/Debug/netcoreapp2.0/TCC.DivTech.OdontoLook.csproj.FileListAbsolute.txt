@@ -1,0 +1,10 @@
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\bin\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.deps.json
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\bin\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.runtimeconfig.json
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\bin\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.runtimeconfig.dev.json
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\bin\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.dll
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\bin\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.pdb
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\obj\Debug\netcoreapp2.0\TCC.DivTech.OdontoLook.csproj.CoreCompileInputs.cache
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\obj\Debug\netcoreapp2.0\TCC.DivTech.OdontoLook.AssemblyInfoInputs.cache
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\obj\Debug\netcoreapp2.0\TCC.DivTech.OdontoLook.AssemblyInfo.cs
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\obj\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.dll
+G:\Fernando C#\TCC.DivTech.OdontoLook\TCC.DivTech.OdontoLook\obj\Debug\netcoreapp2.0\TCC_DivTech_OdontoLook.pdb

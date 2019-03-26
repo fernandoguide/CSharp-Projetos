@@ -1,0 +1,5 @@
+C:\Users\Guide\Desktop\Arquivos\exemplo4vetor\exemplo4vetor\bin\Debug\exemplo4vetor.exe.config
+C:\Users\Guide\Desktop\Arquivos\exemplo4vetor\exemplo4vetor\bin\Debug\exemplo4vetor.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo4vetor\exemplo4vetor\bin\Debug\exemplo4vetor.pdb
+C:\Users\Guide\Desktop\Arquivos\exemplo4vetor\exemplo4vetor\obj\Debug\exemplo4vetor.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo4vetor\exemplo4vetor\obj\Debug\exemplo4vetor.pdb

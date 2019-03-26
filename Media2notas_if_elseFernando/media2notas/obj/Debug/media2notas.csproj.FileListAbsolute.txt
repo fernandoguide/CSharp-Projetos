@@ -1,0 +1,15 @@
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.exe.config
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.exe
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.pdb
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.exe
+C:\Users\ferna\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.pdb
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.exe.config
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.exe
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.pdb
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.exe
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\bin\Debug\media2notas.pdb
+C:\Users\Guide\Desktop\Arquivos\media2notas\media2notas\obj\Debug\media2notas.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\media2notas\bin\Debug\media2notas.exe.config
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\media2notas\obj\Debug\media2notas.exe
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\media2notas\obj\Debug\media2notas.pdb

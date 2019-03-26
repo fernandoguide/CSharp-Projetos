@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\bin\Debug\Media2notas_ternarioFernando.exe.config
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\bin\Debug\Media2notas_ternarioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\bin\Debug\Media2notas_ternarioFernando.pdb
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\obj\Debug\Media2notas_ternarioFernando.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\obj\Debug\Media2notas_ternarioFernando.exe
+C:\Users\Guide\Desktop\Arquivos\Media2notas_ternarioFernando\Media2notas_ternarioFernando\obj\Debug\Media2notas_ternarioFernando.pdb

@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\bin\Debug\Exemplo1metodo.exe.config
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\bin\Debug\Exemplo1metodo.exe
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\bin\Debug\Exemplo1metodo.pdb
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\obj\Debug\Exemplo1metodo.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\obj\Debug\Exemplo1metodo.exe
+C:\Users\Guide\Desktop\Arquivos\Exemplo1metodo\Exemplo1metodo\obj\Debug\Exemplo1metodo.pdb

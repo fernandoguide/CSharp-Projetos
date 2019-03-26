@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\bin\Debug\exemplo3vetor.exe.config
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\bin\Debug\exemplo3vetor.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\bin\Debug\exemplo3vetor.pdb
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\obj\Debug\exemplo3vetor.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\obj\Debug\exemplo3vetor.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo3vetor\exemplo3vetor\obj\Debug\exemplo3vetor.pdb

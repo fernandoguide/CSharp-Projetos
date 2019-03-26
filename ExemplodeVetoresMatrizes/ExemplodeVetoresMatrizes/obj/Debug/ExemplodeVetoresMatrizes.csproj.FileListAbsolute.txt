@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\bin\Debug\ExemplodeVetoresMatrizes.exe.config
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\bin\Debug\ExemplodeVetoresMatrizes.exe
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\bin\Debug\ExemplodeVetoresMatrizes.pdb
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\obj\Debug\ExemplodeVetoresMatrizes.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\obj\Debug\ExemplodeVetoresMatrizes.exe
+C:\Users\Guide\Desktop\ExemplodeVetoresMatrizes\ExemplodeVetoresMatrizes\obj\Debug\ExemplodeVetoresMatrizes.pdb

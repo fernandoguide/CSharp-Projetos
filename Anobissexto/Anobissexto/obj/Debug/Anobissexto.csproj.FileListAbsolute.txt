@@ -1,0 +1,6 @@
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\bin\Debug\Anobissexto.exe.config
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\bin\Debug\Anobissexto.exe
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\bin\Debug\Anobissexto.pdb
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\obj\Debug\Anobissexto.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\obj\Debug\Anobissexto.exe
+C:\Users\Guide\Desktop\Arquivos\Anobissexto\Anobissexto\obj\Debug\Anobissexto.pdb

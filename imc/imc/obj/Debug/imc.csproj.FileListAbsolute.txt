@@ -1,0 +1,12 @@
+C:\Users\1BINFO\Desktop\imc\imc\bin\Debug\imc.exe.config
+C:\Users\1BINFO\Desktop\imc\imc\obj\Debug\imc.csprojResolveAssemblyReference.cache
+C:\Users\1BINFO\Desktop\imc\imc\bin\Debug\imc.exe
+C:\Users\1BINFO\Desktop\imc\imc\bin\Debug\imc.pdb
+C:\Users\1BINFO\Desktop\imc\imc\obj\Debug\imc.exe
+C:\Users\1BINFO\Desktop\imc\imc\obj\Debug\imc.pdb
+C:\Users\Guide\Desktop\Arquivos\imc\imc\bin\Debug\imc.exe.config
+C:\Users\Guide\Desktop\Arquivos\imc\imc\bin\Debug\imc.exe
+C:\Users\Guide\Desktop\Arquivos\imc\imc\bin\Debug\imc.pdb
+C:\Users\Guide\Desktop\Arquivos\imc\imc\obj\Debug\imc.csprojResolveAssemblyReference.cache
+C:\Users\Guide\Desktop\Arquivos\imc\imc\obj\Debug\imc.exe
+C:\Users\Guide\Desktop\Arquivos\imc\imc\obj\Debug\imc.pdb

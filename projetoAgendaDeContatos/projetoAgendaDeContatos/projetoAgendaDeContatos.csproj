@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D62F7694-4EB6-494B-8249-FE254E7CEF28}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projetoAgendaDeContatos</RootNamespace>
+    <AssemblyName>projetoAgendaDeContatos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="controlador\ControladorTelaCadastroContato.cs" />
+    <Compile Include="dominio\ContaAcesso.cs" />
+    <Compile Include="dominio\Contato.cs" />
+    <Compile Include="repositorio\RepositorioContaAcesso.cs" />
+    <Compile Include="tela\TelaDeCadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\TelaDeCadastroUsuario.Designer.cs">
+      <DependentUpon>TelaDeCadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tela\teladelogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\teladelogin.Designer.cs">
+      <DependentUpon>teladelogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tela\AgendaDeContatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\AgendaDeContatos.Designer.cs">
+      <DependentUpon>AgendaDeContatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="repositorio\RepositorioContato.cs" />
+    <Compile Include="tela\TelaAlterarContato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\TelaAlterarContato.designer.cs">
+      <DependentUpon>TelaAlterarContato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tela\TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\TelaPrincipal.Designer.cs">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tela\TelaSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tela\TelaSplash.Designer.cs">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilitario\Conexao.cs" />
+    <EmbeddedResource Include="tela\TelaDeCadastroUsuario.resx">
+      <DependentUpon>TelaDeCadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tela\teladelogin.resx">
+      <DependentUpon>teladelogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tela\AgendaDeContatos.resx">
+      <DependentUpon>AgendaDeContatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="tela\TelaAlterarContato.resx">
+      <DependentUpon>TelaAlterarContato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tela\TelaPrincipal.resx">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tela\TelaSplash.resx">
+      <DependentUpon>TelaSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bd\" />
+    <Folder Include="doc\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel2 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-application-exit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Active-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc-Web-Database-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc-Web-Database-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bd32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_database_red_69098.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Database-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Delete Bin-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Delete Document-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Delete-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Edit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Eraser-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Exit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dentista-nemo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dentist_girl_brush_tooth_hg_clr1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Splash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_me14u314ld1qb9pa3o1_500.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_me4zz1RdUX1r6md6zo1_500.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_118249260-stock-photo-green-orange-background-gradient-with.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7ea5807d81a471478dd7aa5ad13fdca9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FundoTelaLogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

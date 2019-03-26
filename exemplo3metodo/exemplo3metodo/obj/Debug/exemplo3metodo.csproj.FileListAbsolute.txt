@@ -1,0 +1,5 @@
+C:\Users\Guide\Desktop\Arquivos\exemplo3metodo\exemplo3metodo\bin\Debug\exemplo3metodo.exe.config
+C:\Users\Guide\Desktop\Arquivos\exemplo3metodo\exemplo3metodo\bin\Debug\exemplo3metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo3metodo\exemplo3metodo\bin\Debug\exemplo3metodo.pdb
+C:\Users\Guide\Desktop\Arquivos\exemplo3metodo\exemplo3metodo\obj\Debug\exemplo3metodo.exe
+C:\Users\Guide\Desktop\Arquivos\exemplo3metodo\exemplo3metodo\obj\Debug\exemplo3metodo.pdb
